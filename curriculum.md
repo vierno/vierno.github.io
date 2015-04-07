@@ -27,36 +27,36 @@ Trabalhar com desenvolvimento de software, tecnologia e inovação.
 ## Habilidades
 
 - __Python:__ Mais de 5 anos de experiência de desenvolvimento de aplicações
-  web complexas.
-    - __Django__, amplo conhecimento do framework, implemantação de websites
-      com __django-cms__ e apis com __django-rest-framewor__
-    - Trabalhos com os webframeworks: __Zope__ e __Flask__
+  web complexas;
+    - __Django__, amplo conhecimento do framework, implementação de websites
+      com __django-cms__ e apis com __django-rest-framewor__;
+    - Trabalhos com os webframeworks: __Zope__ e __Flask__;
 - Deployment e ambientes: Conhecimento de configuração do __Apache__ e módulos,
- __Nginx__, __supervisor__, __Fabric__ e __Linux__
+ __Nginx__, __supervisor__, __Fabric__ e __Linux__;
 - APIs / Webservices: Elaboração de serviços e consumo de dados __REST__ e
-  __SOAP__
-- Controle de versão via __git__ e __svn__
+  __SOAP__;
+- Controle de versão via __git__ e __svn__;
 - __Testing:__ Testes unitários, testes de comportamento, testes de aceitação,
-  mocking, TDD, Selenium
-- __CI__: Testes e deploy automático utilizando Travis.
+  mocking, TDD, Selenium;
+- __CI__: Testes e deploy automático utilizando Travis;
 - Banco de dados:
-    - Elaboração de __querys__ complexas
-    - __Procedures__ e triggers
-    - Bancos orientados a __documentos__
+    - Elaboração de __queries__ complexas;
+    - __Procedures__ e triggers;
+    - Bancos orientados a __documentos__;
 - Front End:
     - __HTML(5)__, __CSS(3):__ Amplo conhecimento em padrões html, elaboração de
-      código a partir de layouts.
-    - __JavaScript:__ jQuery, elaboração de plugins,
-    - __SEO:__ Otimização estrutural, boas práticas e padrões
-    - __Google Analytics__ e __Google Tag Manager__: implemantação de eventos e
-      tags
+      código a partir de layouts;
+    - __JavaScript:__ jQuery, elaboração de plugins;
+    - __SEO:__ Otimização estrutural, boas práticas e padrões;
+    - __Google Analytics__ e __Google Tag Manager__: implementação de eventos e
+      tags;
 - Agile: experiência com __SCRUM__ e __XP__, técnicas, ferramentas, eventos...
 - Habilidades pessoais:
-    - Facilidade com __prazos__, ao estimar e cumpri-los
-    - __Autodidata__
-    - __Proativo__
-    - Trabalho em __equipe__
-    - Zelo pela __qualidade__ do trabalho feito
+    - Facilidade com __prazos__, ao estimar e cumpri-los;
+    - __Autodidata__;
+    - __Proativo__;
+    - Trabalho em __equipe__;
+    - Zelo pela __qualidade__ do trabalho feito..
 
 
 ## Atuação Profissional
