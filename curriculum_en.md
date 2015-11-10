@@ -7,11 +7,13 @@ __Name:__ Guilherme Vierno da Silveira
 
 __Birth:__ 01/06/1988 - Belo Horizonte - MG - Brazil
 
-__Residence:__ Belo Horizonte - MG - Brazil
+__Residence:__ Rio de Janeiro - RJ - Brazil
 
 __Email:__ guilhermevierno@gmail.com
 
 __Website:__ www.vierno.com.br
+
+__github:__ github.com/vierno
 
 
 ## Education
@@ -21,7 +23,7 @@ Bachelor in Physics from the Federal University of Minas Gerais (2011).
 
 ## Professional Goals
 
-Work with software development, technology and innovation
+Work with software development, technology and innovation.
 
 
 ## Skills
@@ -29,25 +31,25 @@ Work with software development, technology and innovation
 - __Python:__ Over 5 years of experience in development of complex web applications;
     - __Django:__ extensive knowledge of the framework, website implementation with
       __django-cms__ and __django-rest-framewor__ apis;
-    - Works with the webframeworks: __Zope__ e __Flask__;
-- Deployment e environments: __Apache__ configuration and modules,
- __Nginx__, __supervisor__, __Fabric__ and __Linux__;
+    - Works with the webframeworks: __Zope__, __Flask__ and __tornado__;
+- Front End:
+    - __HTML(5):__ Knowledge in html standards;
+    - __CSS(3):__ Sass, less and pixel perfect implementation of layouts.
+    - __JavaScript:__ ReactJS, jQuery, development of reusable plugins and components;
+    - __SEO:__ Structural optimization, best practices and standards;
+    - __Google Analytics__ & __Google Tag Manager__: events and tag coding;
+- __Other languages:__ Minor experience with Java and ruby.
+- Deployment e environments: __Apache__, __Nginx__, __supervisor__, __Fabric__ and __Linux__;
 - APIs / Webservices: Development and data retrieval from __REST__ and
   __SOAP__;
 - Version control via __git__ and __svn__;
-- __Testing:__ Unit testing, behavioral testing, acceptance testing, mocking, TDD, 
+- __Testing:__ Unit testing, behavioral testing, acceptance testing, mocking, TDD,
   Selenium;
 - __CI__: Testing and automated deployment using Travis;
 - Database:
     - Development of complex __queries__;
     - __Procedures__ and triggers;
     - __Document__ oriented databases;
-- Front End:
-    - __HTML(5)__, __CSS(3):__  Extensive knowledge in html standards, development of 
-      code from layouts;
-    - __JavaScript:__ jQuery, development of plugins;
-    - __SEO:__ Structural optimization, best practices and standards;
-    - __Google Analytics__ e __Google Tag Manager__: events and tag coding;
 - Agile: experience with __SCRUM__ and __XP__, techniques, tools, events...
 - Personal skills:
     - Facility with __deadlines__, to estimate and stick to them;
@@ -59,13 +61,21 @@ Work with software development, technology and innovation
 
 ## Professional Experience
 
+### globo.com
+
+__2015 - present:__ Software Engineer
+
+> Multilanguage back-end and front-end software development (Python, Java,
+> Ruby, JS). Focus on Highly available services and performance.
+> Projects: site search, site admin and articles application.
+
 ### Intip Inteligência em Internet ltda.
 
-__2013 - present:__ Technology Coordinator
+__2013 - 2015:__ Technology Coordinator
 
-> Development teams management, implementation of technologies and 
+> Development teams management, implementation of technologies and
 > methodologies. Coordination and project development using Python and
-> Django. 
+> Django.
 > Main projects: www.uai.com.br, www.portaldaindustria.com.br
 
 ### Prima Tech Informática ltda.
@@ -95,7 +105,7 @@ __Portuguese:__ Native language
 
 ## Events and meetings
 
-1. Speaker at PythonBrasil[10], PE - Brazil.
+1. Speaker at PythonBrasil[10] and PythonBrasil[11].
 
 2. Lectures at meetings of Python community of Minas Gerais (PUG-MG).
 
